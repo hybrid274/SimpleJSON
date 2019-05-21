@@ -1,0 +1,10 @@
+{
+    "name": "com.wenrong.simplejson",
+    "displayName": "Simple JSON",
+    "version": "0.0.2",
+    "unity": "2018.1",
+    "description": "SimpleJSON is an easy to use JSON parser and builder. It uses strong typed classes for the different JSONTypes. The parser / builder does now distinguish between different value types. Number, boolean and null will now be handled correctly.",
+    "keywords": [],
+    "category": "unity",
+    "dependencies": {}
+}
